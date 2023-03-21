@@ -1,3 +1,5 @@
+NOTE: This is not updated currently; However I will soon.
+
 # Roblox-Print-Address
 This is for a private print exploit project I'm working on to learn about roblox internals.
 
